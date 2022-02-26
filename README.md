@@ -1,1 +1,1 @@
-repostory ddva site
+need img folder for the image
