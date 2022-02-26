@@ -1,1 +1,1 @@
-need img folder for the image
+web site at https://aware-diag-sapienza.github.io/ddva/
